@@ -2,4 +2,4 @@
 
 My first github repo. Let's get started
 
-Modified README.md locally.
+This line was modified manually during conflict resolution
