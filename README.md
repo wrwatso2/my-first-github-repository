@@ -7,3 +7,5 @@ This line was modified manually during conflict resolution
 New line was added locally
 
 And another line added locally!
+
+Edit in the feature-2 branch
